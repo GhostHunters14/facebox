@@ -1,4 +1,5 @@
-* {
+
+* {-webkit-column-break-inside: ;
   box-sizing: border-box; }
 
 body {
